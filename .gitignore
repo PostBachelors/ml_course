@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Jupyter notebook settings
-.ipynb_checkpoints/
+.ipynb
